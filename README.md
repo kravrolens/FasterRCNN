@@ -7,7 +7,7 @@
 ### 1. 环境配置
 
 ```bash
-git clone XXX
+git clone https://github.com/kravrolens/FasterRCNN.git
 conda create -n detection python=3.9
 conda activate detection
 conda install pytorch torchvision pytorch-cuda=11.8 -c pytorch -c nvidia -y
